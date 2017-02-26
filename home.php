@@ -11,7 +11,7 @@ Template 2079 Garage
 http://www.tooplate.com/view/2079-garage
 
 -->
-	
+
 	<link rel="stylesheet" type="text/css" href="source/bootstrap-3.3.6-dist/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="source/font-awesome-4.5.0/css/font-awesome.css">
 	<link rel="stylesheet" type="text/css" href="style/slider.css">
@@ -36,7 +36,7 @@ http://www.tooplate.com/view/2079-garage
 					<span class="icon-bar"></span>
 				</button>
 				<a class="navbar-brand logo" href="#"><img src="image/logo.jpg" alt="logo"></a>
-			</div>	 
+			</div>
 		</div>
 		<div class="collapse navbar-collapse" id="upmenu">
 			<ul class="nav navbar-nav" id="navbarontop">
@@ -44,7 +44,7 @@ http://www.tooplate.com/view/2079-garage
 					<li  class="active"><a style="margin-right: 10px;" href="home.php" >HOME</a>
 				 </li>
 				<li>
-						<a href="signUp.php">Artisan?Sign Up</a>			
+						<a href="signUp.php">Artisan?Sign Up</a>
 				</li>
 				<li>
 					<a href="Sign_in.php">Sign In</a>
@@ -119,24 +119,24 @@ http://www.tooplate.com/view/2079-garage
 							<li><a href="#">Continue list</a></li>
 						</ul>
 					</li>
-					<li class="li-minyear"><a class="btn  dropdown-toggle btn-costume"  id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Min Year <span class="glyphicon glyphicon-chevron-down downicon"></span></a>
-						<ul class="dropdown-menu" id="mydd2">
-							<li><a href="#">1</a></li>
-							<li><a href="#">2</a></li>
-							<li><a href="#">3</a></li>
+					<li class="li-maxyear"><a class="btn dropdown-toggle btn-costume"  id="dropdownMenu3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Region<span class="glyphicon glyphicon-chevron-down downicon"></span></a>
+						<ul class="dropdown-menu" id="mydd3">
+							<li><a href="#">Greater Accra</a></li>
+							<li><a href="#">Central</a></li>
+							<li><a href="#">Eastern</a></li>
+							<li><a href="#">Volta</a></li>
+							<li><a href="#">Ashanti</a></li>
+							<li><a href="#">Western</a></li>
+							<li><a href="#">Brong-Ahafo</a></li>
+							<li><a href="#">Northern</a></li>
+							<li><a href="#">Upper West</a></li>
+							<li><a href="#">Upper East</a></li>
 						</ul>
 					</li>
-					<li class="li-maxyear"><a class="btn dropdown-toggle btn-costume"  id="dropdownMenu3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Max Year <span class="glyphicon glyphicon-chevron-down downicon"></span></a>
-						<ul class="dropdown-menu" id="mydd3">
-							<li><a href="#">1900</a></li>
-							<li><a href="#">2000</a></li>
-							<li><a href="#">2016</a></li>
-						</ul>
-					</li>	
 					</li>
 					<li class="li-search"> <button class="searchbutton"><span class="glyphicon glyphicon-search "></span></button></li>
 				</ul>
- 
+
 			</div>
 		</nav>
 	</div>
@@ -145,7 +145,7 @@ http://www.tooplate.com/view/2079-garage
 
 <script type="text/javascript" src="source/bootstrap-3.3.6-dist/js/jquery.js"></script>
 <script type="text/javascript" src="source/js/isotope.js"></script>
-<script type="text/javascript" src="source/js/myscript.js"></script> 
+<script type="text/javascript" src="source/js/myscript.js"></script>
 <script type="text/javascript" src="source/bootstrap-3.3.6-dist/js/jquery.1.11.js"></script>
 <script type="text/javascript" src="source/bootstrap-3.3.6-dist/js/bootstrap.js"></script>
 </body>
